@@ -1,0 +1,235 @@
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe.config
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.pdb
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.Properties.Resources.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.GenerateResource.cache
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.exe
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.pdb
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangky.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.dll
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.xml
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.trangchu.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CopyComplete
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.quenmatkhau.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonban.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonnhap.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblkhachhang.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsach.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonban.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonnhap.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonban.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonnhap.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblthongke.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsplashscreen.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonban.resources
+D:\c#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonnhap.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe.config
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.pdb
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.dll
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.xml
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsplashscreen.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangky.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonban.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonnhap.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonnhap.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonban.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsach.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonban.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonnhap.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblkhachhang.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.Properties.Resources.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.quenmatkhau.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblthongke.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonban.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonnhap.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.trangchu.resources
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.GenerateResource.cache
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CopyComplete
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.exe
+D:\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe.config
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsplashscreen.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangky.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsach.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblkhachhang.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.Properties.Resources.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.quenmatkhau.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblthongke.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.trangchu.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CopyComplete
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.exe
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe.config
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsplashscreen.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangky.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsach.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblkhachhang.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.Properties.Resources.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.quenmatkhau.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblthongke.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonban.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonnhap.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.trangchu.resources
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CopyComplete
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.exe
+C:\Users\Admin\Downloads\Bài tập lớn C#\Btl_QuanLyNhaSach\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.pdb
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.AssemblyReference.cache
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonban.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonnhap.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblNhaXuatBan.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsplashscreen.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangky.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonban.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonnhap.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonnhap.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonban.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsach.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonban.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonnhap.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblkhachhang.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.Properties.Resources.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.quenmatkhau.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblthongke.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonban.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonnhap.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.trangchu.resources
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.GenerateResource.cache
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CoreCompileInputs.cache
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.exe
+E:\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe.config
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.exe
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\stdole.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\System.Data.SqlClient.xml
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonban.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.inhoadonnhap.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblNhaXuatBan.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsplashscreen.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangky.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonban.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbldanhsachhoadonnhap.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonnhap.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblchitiethoadonban.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblsach.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonban.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblhoadonnhap.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblkhachhang.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.Properties.Resources.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.quenmatkhau.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblthongke.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonban.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tbltunghoadonnhap.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.trangchu.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.csproj.CopyComplete
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.exe
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.pdb
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.cryhoadonban.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.thongketheonam.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.thongkeloinhuam.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.tblNhanVien.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\bin\Debug\aa-DJ\Btl_QuanLyNhaSach.resources.dll
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\Btl_QuanLyNhaSach.dangnhap.aa-DJ.resources
+C:\Users\1010302\Downloads\Btl_QuanLyNhaSach_hien\Btl_QuanLyNhaSach\obj\Debug\aa-DJ\Btl_QuanLyNhaSach.resources.dll
